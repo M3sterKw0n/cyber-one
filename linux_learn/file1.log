@@ -1,0 +1,2 @@
+<14>Aug 13 10:34:46 ip-172-31-33-14 openvpnas: [-] [OVPN 1] OUT: 'Sat Aug 13 10:34:46 2022 77.8.8.8:47360 VERIFY OK: depth=0, /CN=torobinson' 
+<14>Aug 13 10:34:46 ip-172-31-33-14 openvpnas: [-] [OVPN 1] OUT: "Sat Aug 13 10:34:46 2022 77.8.8.8:47360 TLS: Username/Password authentication deferred for username 'torobinson' " 
